@@ -1,1 +1,1 @@
-Nesse módulo é apresentado operações básicas dentro da linguagem
+O intuito desse módulo é apresentar conceitos básicos da linguagem.
