@@ -9,4 +9,4 @@ imc    = ...
 imc = peso / (altura ** altura)
 
 print(nome + " possui " + str(altura) + " de altura e pesa " + str(peso) + "kg")
-print("IMC:", imc)
+print(f"IMC: {imc:.3f}")
