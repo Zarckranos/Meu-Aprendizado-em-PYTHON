@@ -18,7 +18,7 @@ Obter o resto da divisão da conta anterior por 11
 Se o resultado anterior for maior que 9:
     resultado é 0
 caso contrário:
-    resultado é o valor da conta 
+    resultado é o valor da conta
 """
 
 cpf = '74682489070'
